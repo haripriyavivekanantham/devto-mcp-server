@@ -1,0 +1,9 @@
+[project]
+name = "personalized-letter-writing-mcp"
+version = "0.1.0"
+description = "An MCP server that turns rough thoughts into personalized, beautifully designed letters in English, Tamil or Tanglish."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp<2",
+]
